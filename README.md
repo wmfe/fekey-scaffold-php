@@ -1,8 +1,8 @@
 # fekey脚手架默认PHP模板
 
-## 安装fis3
+## 安装fekey
 
-`npm install fis3 -g`
+`npm install fekey -g`
 
 ## 初始化
 
