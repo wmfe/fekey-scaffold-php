@@ -1,14 +1,14 @@
 {
-  "name": "default",
+  "name": "fekey_scaffold_php",
   "version": "1.0.0",
-  "description": "Default template for fis scaffold",
+  "description": "Default template for fekey scaffold",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fis-scaffold/default.git"
+    "url": "git@github.com:wmfe/fekey-scaffold-node.git"
   },
   "keywords": [
     "fis",
@@ -17,9 +17,9 @@
   "author": "fex",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/fis-scaffold/default/issues"
+    "url": "https://github.com/wmfe/fekey-scaffold-node/issues"
   },
-  "homepage": "https://github.com/fis-scaffold/default",
+  "homepage": "https://github.com/wmfe/fekey-scaffold-node",
   "dependencies": {
   }
 }
