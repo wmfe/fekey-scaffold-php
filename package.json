@@ -1,6 +1,6 @@
 {
   "name": "fekey_scaffold_php",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default template for fekey scaffold",
   "main": "index.js",
   "scripts": {
